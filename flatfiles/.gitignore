@@ -1,0 +1,3 @@
+# ignore all file in this dir but version the flatfiles folder
+*
+!.gitignore
